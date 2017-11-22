@@ -6,7 +6,7 @@ This requires the 3.0 version of [PlatformIO](http://platformio.org). If the Abo
 
 Run 
 ```
-platformio install platforms https://github.com/1bitsy/platform-1bitsy.git
+platformio platform install https://github.com/1bitsy/platform-1bitsy.git
 ```
 
 For development, install the git repository by itself.
